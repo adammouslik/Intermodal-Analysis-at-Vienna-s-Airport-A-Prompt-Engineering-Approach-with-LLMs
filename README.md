@@ -40,7 +40,6 @@ Necesito una guía general para crear visualizaciones efectivas..."
 
 ## Key Findings
 - **7 of 29 routes** analyzed showed temporal equivalence between air and rail
-- **68.7% average fuel efficiency improvement** with rail substitution
 - **70% reduction in iteration cycles** compared to unstructured prompting
 - **92% accuracy** in identifying viable rail alternatives
 
